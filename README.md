@@ -1,4 +1,6 @@
 # clisela
-Cuadrante de multiplicaciones dinámico generado con procesamiento en entorno cliente con Javascript y JQuery
+ * Cuadrante de multiplicaciones dinámico.
+ * Generado con procesamiento en entorno cliente.
+ * Con Javascript y JQuery.
 
 https://rafaelaznar.github.io/clisela/
